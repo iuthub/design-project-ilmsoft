@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Ajax CRUD in laravel - justlaravel.com</title>
+        <title>Ajax CRUD in laravel - ilmsoft.uz</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
@@ -17,8 +17,7 @@
     <body>
       <nav class="navbar navbar-default navbar-fixed-top">
     		<ul class="nav navbar-nav">
-    		<li><a href="http://justlaravel.com/">justlaravel.com</a></li>
-    		<li><a href="http://justlaravel.com/demos/">Demos home</a></li>
+    		<li><a href="http://ilmsoft.uz">Ilmsoft</a></li>
         </ul>
 	    </nav>
 	    <br><br><br><br>
